@@ -53,7 +53,7 @@ let questions= [
    }
 ];
 // constraint
-const CORRECT_BONUS=10;
+const CORRECT_BONUS=5;
 const MAX_QUESTIONS=4;
 
 startGame=() =>{
